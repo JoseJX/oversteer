@@ -20,7 +20,10 @@ KERNELS=="0003:0EB7:0006.????", GOTO="fanatec_setperms"
 KERNELS=="0003:0EB7:0007.????", GOTO="fanatec_setperms"
 # FANATEC CSL DD
 KERNELS=="0003:0EB7:0020.????", GOTO="fanatec_setperms"
+# FANATEC Porsche 911 Turbo S Wheel
+KERNELS=="0003:0EB7:0197.????", GOTO="fanatec_setperms"
 GOTO="fanatec_end"
+
 
 LABEL="fanatec_setperms"
 RUN+="/bin/sh -c 'cd %S%p/../../../; chmod 666 range display leds/*/brightness'"

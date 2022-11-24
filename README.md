@@ -67,6 +67,7 @@ work. Please, check the related projects for more information.)**:
 - FANATEC ClubSport Wheel Base V2.5 with [hid-fanatecff](https://github.com/gotzl/hid-fanatecff).
 - FANATEC Podium Wheel Base DD1/DD2 with [hid-fanatecff](https://github.com/gotzl/hid-fanatecff).
 - FANATEC CSL DD / GT DD Pro Wheel with [hid-fanatecff](https://github.com/gotzl/hid-fanatecff).
+- FANATEC Porsche 911 Turbo S Wheel with [hid-fanatecff](https://github.com/gotzl/hid-fanatecff).
 
 These wheels are recognized but don't have driver support (Force Feedback and
 other features won't work):
@@ -74,7 +75,6 @@ other features won't work):
 - Thrustmaster Force Feedback Racing Wheel
 - Thrustmaster TX Racing Wheel.
 - Thrustmaster T500 RS.
-
 
 ## Features
 
